@@ -118,7 +118,7 @@ fi
 
 if [ -z "${DO_QUICK}" ]; then
 	echo "This utility will attempt to turn this installation into the latest"
-	echo "OPNsense ${RELEASE} release.  All packages will be deleted, the base"
+	echo "Garcinia ${RELEASE} release.  All packages will be deleted, the base"
 	echo "system and kernel will be replaced, and if all went well the system"
 	echo "will automatically reboot."
 	echo
